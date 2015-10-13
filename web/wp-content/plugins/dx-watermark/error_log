@@ -1,0 +1,8 @@
+[07-Apr-2015 07:58:20 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 90
+[07-Apr-2015 07:58:20 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 96
+[07-Apr-2015 08:08:21 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 90
+[07-Apr-2015 08:08:21 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 96
+[07-Apr-2015 08:08:51 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 90
+[07-Apr-2015 08:08:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 96
+[07-Apr-2015 09:00:24 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 90
+[07-Apr-2015 09:00:24 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/toolsaga/public_html/wp-content/plugins/dx-watermark/dx-watermark.php on line 96
